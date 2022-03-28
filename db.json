@@ -2,7 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "dados sensíveis"
+      "usuario": "teste",
+      "palavra": "maisUmTeste",
+      "nome": "Fictício da Silva",
+      "exercicio":"supino inclinado",
+      "carga": "60kg"
     }
   ],
   "profile": {
