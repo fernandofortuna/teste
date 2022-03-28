@@ -1,13 +1,10 @@
+
 {
-  "posts": [
-    {
-      "id": 1,
-      "usuario": "teste",
-      "palavra": "maisUmTeste",
-      "nome": "Fictício da Silva",
-      "exercicio":"supino inclinado",
-      "carga": "60kg"
-      
-    }
-  ]
+  "id": 1,
+  "usuario": "teste",
+  "palavra": "maisUmTeste",
+  "nome": "Fictício da Silva",
+  "exercicio":"supino inclinado",
+  "carga": "60kg"
 }
+
