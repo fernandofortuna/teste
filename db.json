@@ -6,16 +6,18 @@
       "palavra": "maisUmTeste",
       "nome": "Fictício da Silva",
       "exercicio":"supino inclinado",
-      "carga": "60kg"
-      "sessao": [
-        {
-          "numero": 1,
-          "exercicios": [
-            {
-              "numero": 1
-            }
-          ]
-        }
+      "carga": "60kg",
+      "sessao": 
+      [
+          {
+              "numero": 1,
+              "exercicios":
+              [
+                  {
+                      "numero": 1
+                  }
+              ]
+          }
       ]
     }
   ],
