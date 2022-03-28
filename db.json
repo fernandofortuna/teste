@@ -2,8 +2,7 @@
     "pet": {
     "id": 1,
     "name":"John",
-    "age":31,
-
+    "age":31
     }
 }
 
