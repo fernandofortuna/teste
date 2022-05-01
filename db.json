@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "usuarios": {
+    "nome": "Fernando",
+    "idade": 51,
+    "usuario": "fernandofortuna",
+    "senha": "123"
   }
 }
