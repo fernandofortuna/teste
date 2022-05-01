@@ -1,10 +1,10 @@
 {
-  "usuarios": [
+  "usuarios": 
     {
     "nome": "Fernando",
     "idade": 51,
     "usuario": "fernandofortuna",
     "senha": "123"
     }
-  ]
+  
 }
