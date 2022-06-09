@@ -1,10 +1,319 @@
 {
-  "usuarios": 
-    {
+  "usuarios": {
     "nome": "Fernando",
     "idade": 51,
     "usuario": "fernandofortuna",
     "senha": "123"
-    }
-  
+  },
+  "treinos": {
+    "sessoesNum": 4,
+    "objetivo": "ganho de massa",
+    "metodo": "força resistida",
+    "sessao": [
+      {
+        "exercicios": [
+          {
+            "tipo": "Agachar",
+            "recurso": "Cadeira Extensora",
+            "metodo": "pirâmide decrescente",
+            "referencia": "100kg",
+            "series": [
+              {
+                "repeticoes": 14,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 10,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 6,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 4,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              }
+            ]
+          },
+
+          {
+            "tipo": "Agachar",
+            "recurso": "Cadeira flexora",
+            "metodo": "pirâmide crescente",
+            "referencia": "100kg",
+            "series": [
+              {
+                "repeticoes": 4,
+                "cadencia": "30/30",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 8,
+                "cadencia": "30/30",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "20/20",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 14,
+                "cadencia": "20/20",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              }
+            ]
+          },
+
+          {
+            "tipo": "Agachar",
+            "recurso": "Agachamento Sumô",
+            "metodo": "séries múltiplas",
+            "referencia": "30kg",
+            "series": [
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "exercicios": [
+          {
+            "tipo": "Supino Reto",
+            "recurso": "Barra reta e banco horizontal",
+            "metodo": "pirâmide decrescente",
+            "referencia": "50kg",
+            "series": [
+              {
+                "repeticoes": 14,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 10,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 6,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 4,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              }
+            ]
+          },
+          {
+            "tipo": "Supino Inclinado",
+            "recurso": "Barra reta e banco inclinado",
+            "metodo": "pirâmide crescente",
+            "referencia": "30kg",
+            "series": [
+              {
+                "repeticoes": 4,
+                "cadencia": "30/30",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 8,
+                "cadencia": "30/30",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "20/20",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 14,
+                "cadencia": "20/20",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              }
+            ]
+          },
+          {
+            "tipo": "Voador",
+            "recurso": "Maquina",
+            "metodo": "séries múltiplas",
+            "referencia": "30kg",
+            "series": [
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "exercicios": [
+          {
+            "tipo": "Puxar",
+            "recurso": "Puxador barra neutra aberta pronada",
+            "metodo": "pirâmide decrescente",
+            "referencia": "50kg",
+            "series": [
+              {
+                "repeticoes": 14,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 10,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 6,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 4,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              }
+            ]
+          },
+          {
+            "tipo": "Puxar",
+            "recurso": "Remada barra neutra aberta pronada",
+            "metodo": "pirâmide crescente",
+            "referencia": "80kg",
+            "series": [
+              {
+                "repeticoes": 4,
+                "cadencia": "30/30",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 8,
+                "cadencia": "30/30",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "20/20",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 14,
+                "cadencia": "20/20",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              }
+            ]
+          },
+          {
+            "tipo": "Rosca direta",
+            "recurso": "Barra reta",
+            "metodo": "séries múltiplas",
+            "referencia": "18kg",
+            "series": [
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              },
+              {
+                "repeticoes": 12,
+                "cadencia": "30/10",
+                "intervalo": "30s",
+                "teor": "quasemaximo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
